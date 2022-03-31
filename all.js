@@ -9,6 +9,7 @@ const myTools = [
   [{ header: 1 }, { header: 2 }],
   [{ indent: "-1" }, { indent: "+1" }],
   [{ size: ["small", false, "large", "huge"] }],
+  ["link"],
   ["image"],
 ];
 
